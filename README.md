@@ -15,17 +15,17 @@ Inclui o modelo padrão de Wi-Fi IEEE 802.11 e suas modificações para suportar
 
 Arquivos principais:
 
-Entrega_Final_2/linklayer/ieee80211/mac/queue/TimeAwareShaperWifi.ned
+- Entrega_Final_2/linklayer/ieee80211/mac/queue/TimeAwareShaperWifi.ned
 
-Entrega_Final_2/linklayer/ieee80211/mac/queue/PendingQueue.cc
+- Entrega_Final_2/linklayer/ieee80211/mac/queue/PendingQueue.cc
 
 3. Simulation
 
 Contém os arquivos de configuração das simulações:
 
-Arquivos .ned para a definição da topologia da rede.
+- Arquivos .ned para a definição da topologia da rede.
 
-Arquivos .ini para configuração dos parâmetros de simulação.
+- Arquivos .ini para configuração dos parâmetros de simulação.
 
 4. TAS_Components
 
